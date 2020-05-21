@@ -1,0 +1,2 @@
+# FunctionalProgramming
+Scala Assignments
